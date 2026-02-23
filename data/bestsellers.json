@@ -1,0 +1,3447 @@
+{
+  "updated": "2026-02-06T22:49:51Z",
+  "lists": [
+    {
+      "list_name": "Combined Print & E-Book Fiction",
+      "list_name_encoded": "combined-print-and-e-book-fiction",
+      "books": [
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1464249628?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Freida McFadden",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781464249624.jpg",
+          "book_image_height": 500,
+          "book_image_width": 313,
+          "book_review_link": "",
+          "book_uri": "nyt://book/48a8277d-9223-52a2-9573-58561cfe6c19",
+          "contributor": "by Freida McFadden",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.353Z",
+          "dagger": 0,
+          "description": "An advice columnist who is having trouble at work and home decides to get back at people she thinks deserve it.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781464249624",
+          "publisher": "Poisoned Pen",
+          "rank": 1,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "DEAR DEBBIE",
+          "updated_date": "2026-02-06T16:22:07.353Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781464249624"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1464249628?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781464249624?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/DEAR%20DEBBIE%20by%20Freida%20McFadden"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDear-Debbie%2FFreida-McFadden%2F9781464249624"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781464249624"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Allen Levi",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
+          "book_image_height": 500,
+          "book_image_width": 322,
+          "book_review_link": "",
+          "book_uri": "nyt://book/f3e1f4c8-34a3-54a3-8305-277666e21b4b",
+          "contributor": "by Allen Levi",
+          "contributor_note": "",
+          "created_date": "2025-11-26T23:37:24.433Z",
+          "dagger": 0,
+          "description": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781668236512",
+          "publisher": "Atria",
+          "rank": 2,
+          "rank_last_week": 6,
+          "sunday_review_link": "",
+          "title": "THEO OF GOLDEN",
+          "updated_date": "2025-11-26T23:37:24.433Z",
+          "weeks_on_list": 9,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781668236512"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1668236516?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781668236512?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/theo-of-golden-allen-levi/1143923011?ean=9781668236512"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTheo-Golden%2FAllen-Levi%2F9781668236512"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781668236512"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Virginia Evans",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg",
+          "book_image_height": 500,
+          "book_image_width": 324,
+          "book_review_link": "",
+          "book_uri": "nyt://book/ee6e7478-d847-5258-a579-f9ef0ed9c301",
+          "contributor": "by Virginia Evans",
+          "contributor_note": "",
+          "created_date": "2025-09-24T22:37:46.046Z",
+          "dagger": 0,
+          "description": "Letters from someone she used to know push Sybil Van Antwerp toward revisiting her past and finding a way to forgive.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593798430",
+          "publisher": "Crown",
+          "rank": 3,
+          "rank_last_week": 3,
+          "sunday_review_link": "",
+          "title": "THE CORRESPONDENT",
+          "updated_date": "2025-09-24T22:37:46.046Z",
+          "weeks_on_list": 12,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593798430"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593798430?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-correspondent-virginia-evans/1146138272?ean=9780593798430"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520CORRESPONDENT%2520by%2520Virginia%2520Evans"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593798430"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1335534636?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Rachel Reid",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781335534637.jpg",
+          "book_image_height": 500,
+          "book_image_width": 332,
+          "book_review_link": "",
+          "book_uri": "nyt://book/4a047348-e144-5d6f-850f-5ea2d9950192",
+          "contributor": "by Rachel Reid",
+          "contributor_note": "",
+          "created_date": "2026-01-07T23:38:30.994Z",
+          "dagger": 0,
+          "description": "The second book in the Game Changers series. Rival captains of two hockey teams try to keep their relationship out of the spotlight.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781335534637",
+          "publisher": "Carina",
+          "rank": 4,
+          "rank_last_week": 2,
+          "sunday_review_link": "",
+          "title": "HEATED RIVALRY",
+          "updated_date": "2026-01-07T23:38:30.994Z",
+          "weeks_on_list": 8,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781335534637"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1335534636?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781335534637?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/heated-rivalry-rachel-reid/1129486546?ean=9781335534637"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHeated-Rivalry%2FRachel-Reid%2F9781335534637"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781335534637"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/B0D7ZKQGPX?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Douglas Preston and Lincoln Child",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781538765777.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/713d4d40-f679-5a69-a1fb-109e90ae0fcd",
+          "contributor": "by Douglas Preston and Lincoln Child",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.492Z",
+          "dagger": 0,
+          "description": "Agent Pendergast’s ghastly first case involves a suspension and ritualistic killings.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781538765777",
+          "publisher": "Grand Central",
+          "rank": 5,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "PENDERGAST: THE BEGINNING",
+          "updated_date": "2026-02-06T16:22:07.492Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781538765777"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/B0D7ZKQGPX?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781538765777?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/PENDERGAST%3A%20THE%20BEGINNING%20by%20Douglas%20Preston%20and%20Lincoln%20Child"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DPENDERGAST%253A%2520THE%2520BEGINNING%2520by%2520Douglas%2520Preston%2520and%2520Lincoln%2520Child"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781538765777"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0525509623?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "George Saunders",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780525509622.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2026/01/26/books/review/george-saunders-vigil.html",
+          "book_uri": "nyt://book/c53545ea-c2fa-5f67-aa1a-22349ab28243",
+          "contributor": "by George Saunders",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.616Z",
+          "dagger": 0,
+          "description": "In the waning hours of an oil company chief executive’s life, worldly and otherworldly visitors put his time on Earth in perspective.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780525509622",
+          "publisher": "Random House",
+          "rank": 6,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "VIGIL",
+          "updated_date": "2026-02-06T16:22:07.616Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780525509622"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0525509623?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780525509622?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/Vigil%20George%20Saunders"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVigil%2FGeorge-Saunders%2F9780525509622"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780525509622"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Freida McFadden",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781538742570.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/34b29640-4b8c-59a9-8cf8-470356da1e2f",
+          "contributor": "by Freida McFadden",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:31.53Z",
+          "dagger": 0,
+          "description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781538742570",
+          "publisher": "Grand Central",
+          "rank": 7,
+          "rank_last_week": 8,
+          "sunday_review_link": "",
+          "title": "THE HOUSEMAID",
+          "updated_date": "2025-10-11T08:22:31.53Z",
+          "weeks_on_list": 116,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781538742570"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781538742570?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9781538742570"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BHOUSEMAID%2FFreida%2BMcFadden%2F9781538742570"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781538742570"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1542025613?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Colleen Hoover",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781542025614.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/36fb9a64-748e-5812-a13f-8fc2f4aa787e",
+          "contributor": "by Colleen Hoover",
+          "contributor_note": "",
+          "created_date": "2026-01-21T23:37:05.763Z",
+          "dagger": 0,
+          "description": "An author hoping to get her career back on track has a relationship with a detective that goes from inspirational to confrontational.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781542025614",
+          "publisher": "Montlake",
+          "rank": 8,
+          "rank_last_week": 4,
+          "sunday_review_link": "",
+          "title": "WOMAN DOWN",
+          "updated_date": "2026-01-21T23:37:05.763Z",
+          "weeks_on_list": 3,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781542025614"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1542025613?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781542025614?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/WOMAN%20DOWN%20by%20Colleen%20Hoover"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWoman-Down%2FColleen-Hoover%2F9781542025614"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781542025614"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593723732?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Jennette McCurdy",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593723739.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "https://www.nytimes.com/2026/01/18/books/review/jennette-mccurdy-half-his-age.html",
+          "book_uri": "nyt://book/14286759-77a1-5834-8ba2-f7a51d02634f",
+          "contributor": "by Jennette McCurdy",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:39.795Z",
+          "dagger": 0,
+          "description": "A 17-year-old named Waldo has an inexplicable attraction to her creative writing teacher.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593723739",
+          "publisher": "Ballantine",
+          "rank": 9,
+          "rank_last_week": 5,
+          "sunday_review_link": "",
+          "title": "HALF HIS AGE",
+          "updated_date": "2026-01-28T23:36:39.795Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593723739"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593723732?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593723739?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/Half%20His%20Age%20Jennette%20McCurdy"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHalf-His-Age%2FJennette-McCurdy%2F9780593723739"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593723739"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1335534644?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Rachel Reid",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781335534644.jpg",
+          "book_image_height": 500,
+          "book_image_width": 332,
+          "book_review_link": "",
+          "book_uri": "nyt://book/0d9eecf0-6868-5518-a346-377d4bc894be",
+          "contributor": "by Rachel Reid",
+          "contributor_note": "",
+          "created_date": "2026-01-07T23:38:31.133Z",
+          "dagger": 0,
+          "description": "The sixth book in the Game Changers series. Ten years into their relationship, Ilya is tired of Shane keeping it a secret.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781335534644",
+          "publisher": "Carina",
+          "rank": 10,
+          "rank_last_week": 9,
+          "sunday_review_link": "",
+          "title": "THE LONG GAME",
+          "updated_date": "2026-01-07T23:38:31.133Z",
+          "weeks_on_list": 5,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781335534644"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1335534644?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781335534644?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20LONG%20GAME%20by%20Rachel%20Reid"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLong-Game%2FRachel-Reid%2F9781335534644"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781335534644"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Andy Weir",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2021/05/04/books/review/andy-weir-project-hail-mary.html",
+          "book_uri": "nyt://book/c11ceffc-2fff-5cb0-98c7-c4a75b2d16bd",
+          "contributor": "by Andy Weir",
+          "contributor_note": "",
+          "created_date": "2025-10-11T07:54:21.023Z",
+          "dagger": 0,
+          "description": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593135228",
+          "publisher": "Ballantine",
+          "rank": 11,
+          "rank_last_week": 13,
+          "sunday_review_link": "",
+          "title": "PROJECT HAIL MARY",
+          "updated_date": "2025-10-11T07:54:21.023Z",
+          "weeks_on_list": 34,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593135228"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593135202?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593135228?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593135228"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPROJECT%2BHAIL%2BMARY%2FAndy%2BWeir%2F9780593135228"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593135228"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1335534628?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Rachel Reid",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781335534620.jpg",
+          "book_image_height": 500,
+          "book_image_width": 332,
+          "book_review_link": "",
+          "book_uri": "nyt://book/a84fbf5a-f216-5217-86e5-b72f5086ecc0",
+          "contributor": "by Rachel Reid",
+          "contributor_note": "",
+          "created_date": "2026-01-14T23:37:13.7Z",
+          "dagger": 0,
+          "description": "The captain of a hockey team worries about public perceptions after he starts a relationship with a guy who works at a smoothie shop.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781335534620",
+          "publisher": "Carina",
+          "rank": 12,
+          "rank_last_week": 11,
+          "sunday_review_link": "",
+          "title": "GAME CHANGER",
+          "updated_date": "2026-01-14T23:37:13.7Z",
+          "weeks_on_list": 4,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781335534620"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1335534628?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781335534620?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/GAME%20CHANGER%20by%20Rachel%20Reid"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGame-Changer%2FRachel-Reid%2F9781335534620"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781335534620"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/B0F3WKFBFF?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Alice Feeney",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781250337825.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/18bfe58f-59c1-5037-a330-9f3eda094d2a",
+          "contributor": "by Alice Feeney",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.774Z",
+          "dagger": 0,
+          "description": "In an old house in a seaside town, things may not be what they appear to be.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781250337825",
+          "publisher": "Pine & Cedar",
+          "rank": 13,
+          "rank_last_week": 7,
+          "sunday_review_link": "",
+          "title": "MY HUSBAND'S WIFE",
+          "updated_date": "2026-02-06T16:22:07.774Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781250337825"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/B0F3WKFBFF?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781250337825?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/MY%20HUSBAND'S%20WIFE%20by%20Alice%20Feeney"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DMY%2520HUSBAND'S%2520WIFE%2520by%2520Alice%2520Feeney"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781250337825"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Matt Dinniman",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593820254.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e3ca1e41-0c69-5bc3-9f5c-e4668af53e44",
+          "contributor": "by Matt Dinniman",
+          "contributor_note": "",
+          "created_date": "2026-01-07T23:38:33.501Z",
+          "dagger": 0,
+          "description": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593820254",
+          "publisher": "Ace",
+          "rank": 14,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "DUNGEON CRAWLER CARL",
+          "updated_date": "2026-01-07T23:38:33.501Z",
+          "weeks_on_list": 4,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593820254"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593820258?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593820254?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/dungeon-crawler-carl-matt-dinniman/1145437169?ean=9780593820254"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDungeon-Crawler-Carl%2FMatt-Dinniman%2F9780593820254"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593820254"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Grisham",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780385548984.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/b4d35d23-bb5e-5f9c-b842-01c4352fe4dc",
+          "contributor": "by John Grisham",
+          "contributor_note": "",
+          "created_date": "2025-10-29T22:37:36.735Z",
+          "dagger": 0,
+          "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780385548984",
+          "publisher": "Doubleday",
+          "rank": 15,
+          "rank_last_week": 14,
+          "sunday_review_link": "",
+          "title": "THE WIDOW",
+          "updated_date": "2025-10-29T22:37:36.735Z",
+          "weeks_on_list": 15,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780385548984"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780385548984?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-widow-john-grisham/1147191431?ean=9780385548984"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWidow%2FJohn-Grisham%2F9780385548984"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780385548984"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "list_name": "Combined Print & E-Book Nonfiction",
+      "list_name_encoded": "combined-print-and-e-book-nonfiction",
+      "books": [
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063422506?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Peter Schweizer",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063422506.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/592d3f06-d50f-5893-8f54-f1cdbdab07d5",
+          "contributor": "by Peter Schweizer",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:40.199Z",
+          "dagger": 0,
+          "description": "The author of “Blood Money” puts forward his argument that mass migration is a political weapon.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063422506",
+          "publisher": "Harper",
+          "rank": 1,
+          "rank_last_week": 1,
+          "sunday_review_link": "",
+          "title": "THE INVISIBLE COUP",
+          "updated_date": "2026-01-28T23:36:40.199Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063422506"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063422506?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20INVISIBLE%20COUP%20by%20Peter%20Schweizer"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInvisible-Coup%2FPeter-Schweizer%2F9780063422506"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063422506"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/B0F3WTJ9V2?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Belle Burden",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593733325.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/90931bc7-4f66-5438-a113-0185e33af5ab",
+          "contributor": "by Belle Burden",
+          "contributor_note": "",
+          "created_date": "2026-01-21T23:37:06.191Z",
+          "dagger": 0,
+          "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593733325",
+          "publisher": "Dial",
+          "rank": 2,
+          "rank_last_week": 3,
+          "sunday_review_link": "",
+          "title": "STRANGERS",
+          "updated_date": "2026-01-21T23:37:06.191Z",
+          "weeks_on_list": 3,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593733325"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/B0F3WTJ9V2?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593733325?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/STRANGERS%20by%20Belle%20Burden"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DSTRANGERS%2520by%2520Belle%2520Burden"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593733325"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Bessel van der Kolk",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
+          "book_image_height": 193,
+          "book_image_width": 128,
+          "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+          "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+          "contributor": "by Bessel van der Kolk",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.191Z",
+          "dagger": 0,
+          "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780143127741",
+          "publisher": "Penguin",
+          "rank": 3,
+          "rank_last_week": 5,
+          "sunday_review_link": "",
+          "title": "THE BODY KEEPS THE SCORE",
+          "updated_date": "2025-10-11T08:22:41.191Z",
+          "weeks_on_list": 280,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780143127741"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780143127741"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2FBessel%2Bvan%2Bder%2BKolk%2F9780143127741"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780143127741"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063463903?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Josh Shapiro with Emily Jane Fox",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063463905.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e2700441-2308-51f6-9856-f0f89f657e29",
+          "contributor": "by Josh Shapiro with Emily Jane Fox",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.912Z",
+          "dagger": 0,
+          "description": "The governor of Pennsylvania chronicles events that shaped his life and his political career.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063463905",
+          "publisher": "Harper",
+          "rank": 4,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "WHERE WE KEEP THE LIGHT",
+          "updated_date": "2026-02-06T16:22:07.912Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063463905"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063463903?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780063463905?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/WHERE%20WE%20KEEP%20THE%20LIGHT%20by%20Josh%20Shapiro%20with%20Emily%20Jane%20Fox"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWe-Keep-Light%2FJosh-Shapiro%2F9780063463905"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063463905"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Andrew Ross Sorkin",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593296967.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2025/10/14/books/review/1929-andrew-ross-sorkin.html",
+          "book_uri": "nyt://book/90977171-d8dc-57d5-b3a0-acf8445743c7",
+          "contributor": "by Andrew Ross Sorkin",
+          "contributor_note": "",
+          "created_date": "2025-10-22T22:37:48.485Z",
+          "dagger": 0,
+          "description": "The New York Times journalist and CNBC host looks at the fight between Washington and Wall Street that fueled a historic crash of the stock market.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593296967",
+          "publisher": "Viking",
+          "rank": 5,
+          "rank_last_week": 2,
+          "sunday_review_link": "",
+          "title": "1929",
+          "updated_date": "2025-10-22T22:37:48.485Z",
+          "weeks_on_list": 16,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593296967"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593296967?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/1929-andrew-ross-sorkin/1147761884?ean=9780593296967"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAndrew-Ross-Sorkin%2F9780593296967"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593296967"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063428164?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Kennedy",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063428164.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/62e9ab90-fd39-5bc3-b01d-6aa678595027",
+          "contributor": "by John Kennedy",
+          "contributor_note": "",
+          "created_date": "2025-10-15T22:38:30.535Z",
+          "dagger": 0,
+          "description": "The Republican senator from Louisiana shares stories about politics in Washington, D.C., and in his home state.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063428164",
+          "publisher": "Broadside",
+          "rank": 6,
+          "rank_last_week": 9,
+          "sunday_review_link": "",
+          "title": "HOW TO TEST NEGATIVE FOR STUPID",
+          "updated_date": "2025-10-15T22:38:30.535Z",
+          "weeks_on_list": 17,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063428164"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063428164?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780063428164?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/how-to-test-negative-for-stupid-john-kennedy/1146773939?ean=9780063428164"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHOW%2520TO%2520TEST%2520NEGATIVE%2520FOR%2520STUPID%2520by%2520John%2520Kennedy"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063428164"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Jonathan Haidt",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
+          "contributor": "by Jonathan Haidt",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:40.842Z",
+          "dagger": 0,
+          "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593655030",
+          "publisher": "Penguin Press",
+          "rank": 7,
+          "rank_last_week": 8,
+          "sunday_review_link": "",
+          "title": "THE ANXIOUS GENERATION",
+          "updated_date": "2025-10-11T08:22:40.842Z",
+          "weeks_on_list": 92,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593655030"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593655030"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593655030"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593493125?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Virginia Roberts Giuffre",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593493120.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2025/10/16/books/review/virginia-roberts-giuffre-nobodys-girl-memoir.html",
+          "book_uri": "nyt://book/ef231b83-dd7d-5beb-add6-ec274e904a82",
+          "contributor": "by Virginia Roberts Giuffre",
+          "contributor_note": "",
+          "created_date": "2025-10-29T22:37:37.531Z",
+          "dagger": 0,
+          "description": "The late activist and advocate for sex-trafficking survivors describes her time with Jeffrey Epstein and Ghislaine Maxwell.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593493120",
+          "publisher": "Knopf",
+          "rank": 8,
+          "rank_last_week": 7,
+          "sunday_review_link": "",
+          "title": "NOBODY'S GIRL",
+          "updated_date": "2025-10-29T22:37:37.531Z",
+          "weeks_on_list": 15,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593493120"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593493125?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593493120?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/nobodys-girl-virginia-roberts-giuffre/1148108744?ean=9780593493120"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNobodys-Girl%2FVirginia-Roberts-Giuffre%2F9780593493120"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593493120"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1668211769?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Spencer Pratt",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781668211762.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e782a664-ad5d-5062-bcdf-ed98aa2e6c92",
+          "contributor": "by Spencer Pratt",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:08.052Z",
+          "dagger": 0,
+          "description": "The reality TV star recounts setbacks he faced and how his life changed after the Palisades wildfires in 2025.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781668211762",
+          "publisher": "Gallery",
+          "rank": 9,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "THE GUY YOU LOVED TO HATE",
+          "updated_date": "2026-02-06T16:22:08.052Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781668211762"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1668211769?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781668211762?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20GUY%20YOU%20LOVED%20TO%20HATE%20by%20Spencer%20Pratt"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGuy-Loved-Hate%2FSpencer-Pratt%2F9781668211762"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781668211762"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Timothy Snyder",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780804190114.jpg",
+          "book_image_height": 465,
+          "book_image_width": 330,
+          "book_review_link": "",
+          "book_uri": "nyt://book/eeb07cb6-f672-5b8d-b85d-6ce6f62b1856",
+          "contributor": "by Timothy Snyder",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.308Z",
+          "dagger": 0,
+          "description": "Twenty lessons from the 20th century about the course of tyranny.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780804190114",
+          "publisher": "Crown",
+          "rank": 10,
+          "rank_last_week": 14,
+          "sunday_review_link": "",
+          "title": "ON TYRANNY",
+          "updated_date": "2025-10-11T08:22:41.308Z",
+          "weeks_on_list": 71,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780804190114"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780804190114?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780804190114"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FON%2BTYRANNY%2FTimothy%2BSnyder%2F9780804190114"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780804190114"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Jennette McCurdy",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781982185831.jpg",
+          "book_image_height": 500,
+          "book_image_width": 328,
+          "book_review_link": "",
+          "book_uri": "nyt://book/98873b7c-cacc-5b85-9763-b5cc78c2e6c9",
+          "contributor": "by Jennette McCurdy",
+          "contributor_note": "",
+          "created_date": "2025-11-26T23:37:23.901Z",
+          "dagger": 0,
+          "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781982185831",
+          "publisher": "Simon & Schuster",
+          "rank": 11,
+          "rank_last_week": 6,
+          "sunday_review_link": "",
+          "title": "I'M GLAD MY MOM DIED",
+          "updated_date": "2025-11-26T23:37:23.901Z",
+          "weeks_on_list": 74,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781982185831"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/198218583X?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781982185831?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/im-glad-my-mom-died-jennette-mccurdy/1140377015?ean=9781982185831"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FIm-Glad-My-Mom-Died%2FJennette-McCurdy%2F9781982185831"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781982185831"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593804147?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Omar El Akkad",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593804148.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/cbb6fa9c-1018-544f-baaf-2998c50aebb9",
+          "contributor": "by Omar El Akkad",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:21:41.14Z",
+          "dagger": 0,
+          "description": "In his nonfiction debut, El Akkad looks at how the West responds to mass suffering.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593804148",
+          "publisher": "Knopf",
+          "rank": 12,
+          "rank_last_week": 13,
+          "sunday_review_link": "",
+          "title": "ONE DAY, EVERYONE WILL HAVE ALWAYS BEEN AGAINST THIS",
+          "updated_date": "2025-10-11T08:21:41.14Z",
+          "weeks_on_list": 5,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593804148"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593804147?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593804148?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593804148"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BDAY%252C%2BEVERYONE%2BWILL%2BHAVE%2BALWAYS%2BBEEN%2BAGAINST%2BTHIS%2FOmar%2BEl%2BAkkad%2F9780593804148"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593804148"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0358439167?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Michael Harriot",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780358439165.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/73df4d4e-da13-52f1-b657-d44d2d8a0186",
+          "contributor": "by Michael Harriot",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:08:38.86Z",
+          "dagger": 0,
+          "description": "A columnist at TheGrio.com articulates moments in American history that center the perspectives and experiences of Black Americans.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780358439165",
+          "publisher": "Dey Street",
+          "rank": 13,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "BLACK AF HISTORY",
+          "updated_date": "2025-10-11T08:08:38.86Z",
+          "weeks_on_list": 13,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780358439165"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0358439167?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780358439165?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780358439165"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLACK%2BAF%2BHISTORY%2FMichael%2BHarriot%2F9780358439165"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780358439165"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Peter Attia with Bill Gifford",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593236598.jpg",
+          "book_image_height": 500,
+          "book_image_width": 385,
+          "book_review_link": "",
+          "book_uri": "nyt://book/69f6e624-4f30-59d6-8103-816d17ae5ec1",
+          "contributor": "by Peter Attia with Bill Gifford",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.948Z",
+          "dagger": 0,
+          "description": "A look at recent scientific research on aging and longevity.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593236598",
+          "publisher": "Harmony",
+          "rank": 14,
+          "rank_last_week": 12,
+          "sunday_review_link": "",
+          "title": "OUTLIVE",
+          "updated_date": "2025-10-11T08:22:41.948Z",
+          "weeks_on_list": 111,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593236598"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593236598?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593236598"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTLIVE%2FPeter%2BAttia%2Bwith%2BBill%2BGifford%2F9780593236598"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593236598"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0525426051?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Green",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780525556572.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/bb5b70b2-964d-5146-8e4b-64724d34a3a9",
+          "contributor": "by John Green",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.558Z",
+          "dagger": 0,
+          "description": "The author of “The Anthropocene Reviewed” chronicles the fight against the deadly infectious disease tuberculosis.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780525556572",
+          "publisher": "Crash Course",
+          "rank": 15,
+          "rank_last_week": 15,
+          "sunday_review_link": "",
+          "title": "EVERYTHING IS TUBERCULOSIS",
+          "updated_date": "2025-10-11T08:22:41.558Z",
+          "weeks_on_list": 29,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780525556572"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0525426051?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780525556572?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780525556572"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVERYTHING%2BIS%2BTUBERCULOSIS%2FJohn%2BGreen%2F9780525556572"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780525556572"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "list_name_encoded": "hardcover-fiction",
+      "books": [
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0525509623?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "George Saunders",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780525509622.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2026/01/26/books/review/george-saunders-vigil.html",
+          "book_uri": "nyt://book/c53545ea-c2fa-5f67-aa1a-22349ab28243",
+          "contributor": "by George Saunders",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.616Z",
+          "dagger": 0,
+          "description": "In the waning hours of an oil company chief executive’s life, worldly and otherworldly visitors put his time on Earth in perspective.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780525509622",
+          "publisher": "Random House",
+          "rank": 1,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "VIGIL",
+          "updated_date": "2026-02-06T16:22:07.616Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780525509622"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0525509623?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780525509622?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/Vigil%20George%20Saunders"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVigil%2FGeorge-Saunders%2F9780525509622"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780525509622"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Virginia Evans",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593798430.jpg",
+          "book_image_height": 500,
+          "book_image_width": 324,
+          "book_review_link": "",
+          "book_uri": "nyt://book/ee6e7478-d847-5258-a579-f9ef0ed9c301",
+          "contributor": "by Virginia Evans",
+          "contributor_note": "",
+          "created_date": "2025-09-24T22:37:46.046Z",
+          "dagger": 0,
+          "description": "Letters from someone she used to know push Sybil Van Antwerp toward revisiting her past and finding a way to forgive.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593798430",
+          "publisher": "Crown",
+          "rank": 2,
+          "rank_last_week": 3,
+          "sunday_review_link": "",
+          "title": "THE CORRESPONDENT",
+          "updated_date": "2025-09-24T22:37:46.046Z",
+          "weeks_on_list": 14,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593798430"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593798430?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593798430?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-correspondent-virginia-evans/1146138272?ean=9780593798430"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DTHE%2520CORRESPONDENT%2520by%2520Virginia%2520Evans"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593798430"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593723732?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Jennette McCurdy",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593723739.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "https://www.nytimes.com/2026/01/18/books/review/jennette-mccurdy-half-his-age.html",
+          "book_uri": "nyt://book/14286759-77a1-5834-8ba2-f7a51d02634f",
+          "contributor": "by Jennette McCurdy",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:39.795Z",
+          "dagger": 0,
+          "description": "A 17-year-old named Waldo has an inexplicable attraction to her creative writing teacher.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593723739",
+          "publisher": "Ballantine",
+          "rank": 3,
+          "rank_last_week": 2,
+          "sunday_review_link": "",
+          "title": "HALF HIS AGE",
+          "updated_date": "2026-01-28T23:36:39.795Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593723739"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593723732?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593723739?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/Half%20His%20Age%20Jennette%20McCurdy"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHalf-His-Age%2FJennette-McCurdy%2F9780593723739"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593723739"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1538765748?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Douglas Preston and Lincoln Child",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781538765746.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/475650f5-ae74-583f-b64f-aa8c3f9cb062",
+          "contributor": "by Douglas Preston and Lincoln Child",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:00.925Z",
+          "dagger": 0,
+          "description": "Agent Pendergast’s ghastly first case involves a suspension and ritualistic killings.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781538765746",
+          "publisher": "Grand Central",
+          "rank": 4,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "PENDERGAST: THE BEGINNING",
+          "updated_date": "2026-02-06T16:22:00.925Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781538765746"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1538765748?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781538765746?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/PENDERGAST%3A%20THE%20BEGINNING%20by%20Douglas%20Preston%20and%20Lincoln%20Child"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPendergast%2FDouglas-Preston%2F9781538765746"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781538765746"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1496759141?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Clay Cane",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781496759146.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/f500c56a-d7a5-5cd6-bd05-8edf1821bd3e",
+          "contributor": "by Clay Cane",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:01.08Z",
+          "dagger": 0,
+          "description": "Acts of resistance are made by enslaved persons in the American South.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781496759146",
+          "publisher": "Dafina",
+          "rank": 5,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "BURN DOWN MASTER'S HOUSE",
+          "updated_date": "2026-02-06T16:22:01.08Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781496759146"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1496759141?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781496759146?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/BURN%20DOWN%20MASTER'S%20HOUSE%20by%20Clay%20Cane"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBurn-Down-Masters-House%2FClay-Cane%2F9781496759146"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781496759146"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Grisham",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780385548984.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/b4d35d23-bb5e-5f9c-b842-01c4352fe4dc",
+          "contributor": "by John Grisham",
+          "contributor_note": "",
+          "created_date": "2025-10-29T22:37:36.735Z",
+          "dagger": 0,
+          "description": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780385548984",
+          "publisher": "Doubleday",
+          "rank": 6,
+          "rank_last_week": 6,
+          "sunday_review_link": "",
+          "title": "THE WIDOW",
+          "updated_date": "2025-10-29T22:37:36.735Z",
+          "weeks_on_list": 15,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780385548984"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0385548982?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780385548984?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-widow-john-grisham/1147191431?ean=9780385548984"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWidow%2FJohn-Grisham%2F9780385548984"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780385548984"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "SenLinYu",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593972700.jpg",
+          "book_image_height": 500,
+          "book_image_width": 330,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e9c567d8-7c38-5cb8-88e5-ba46078e2144",
+          "contributor": "by SenLinYu",
+          "contributor_note": "",
+          "created_date": "2025-10-01T22:40:32.788Z",
+          "dagger": 0,
+          "description": "After the war, an imprisoned alchemist is sent to a necromancer to recover her lost memories.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593972700",
+          "publisher": "Del Rey",
+          "rank": 7,
+          "rank_last_week": 9,
+          "sunday_review_link": "",
+          "title": "ALCHEMISED",
+          "updated_date": "2025-10-01T22:40:32.788Z",
+          "weeks_on_list": 19,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593972700"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593972708?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593972700?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/alchemised-senlinyu/1146838848?ean=9780593972700"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAlchemised%2FSenLinYu%2F9780593972700"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593972700"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/125033781X?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Alice Feeney",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781250337818.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/0461987c-33f3-5d5d-a2ad-f03226f1ca3a",
+          "contributor": "by Alice Feeney",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:39.932Z",
+          "dagger": 0,
+          "description": "In an old house in a seaside town, things may not be what they appear to be.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781250337818",
+          "publisher": "Pine & Cedar",
+          "rank": 8,
+          "rank_last_week": 4,
+          "sunday_review_link": "",
+          "title": "MY HUSBAND'S WIFE",
+          "updated_date": "2026-01-28T23:36:39.932Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781250337818"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/125033781X?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781250337818?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/MY%20HUSBAND'S%20WIFE%20by%20Alice%20Feeney"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FMy-Husbands-Wife%2FAlice-Feeney%2F9781250337818"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781250337818"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Dan Brown",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780385546898.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2025/09/09/books/review/the-secret-of-secrets-dan-brown.html",
+          "book_uri": "nyt://book/49cff1bb-35bc-554b-a7d4-dbc946230c00",
+          "contributor": "by Dan Brown",
+          "contributor_note": "",
+          "created_date": "2025-09-17T22:38:11.49Z",
+          "dagger": 0,
+          "description": "As he searches for the missing noetic scientist he has been seeing, Robert Langdon discovers something regarding a secret project.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780385546898",
+          "publisher": "Doubleday",
+          "rank": 9,
+          "rank_last_week": 8,
+          "sunday_review_link": "",
+          "title": "THE SECRET OF SECRETS",
+          "updated_date": "2025-09-17T22:38:11.49Z",
+          "weeks_on_list": 21,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780385546898"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0385546890?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-secret-of-secrets-dan-brown/1146902400?ean=9780385546898"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FSecret-Secrets%2FDan-Brown%2F9780385546898"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780385546898"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1496758242?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Harley Laroux",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781496758248.jpg",
+          "book_image_height": 500,
+          "book_image_width": 328,
+          "book_review_link": "",
+          "book_uri": "nyt://book/d71ad7bb-8ac9-5d29-aea7-55aeab811265",
+          "contributor": "by Harley Laroux",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:01.233Z",
+          "dagger": 0,
+          "description": "The second book in the Souls trilogy. Juniper gives her soul to Zane so he will exact revenge on a cult but now he wants her heart too.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781496758248",
+          "publisher": "Kensington",
+          "rank": 10,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "HER SOUL FOR REVENGE",
+          "updated_date": "2026-02-06T16:22:01.233Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781496758248"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1496758242?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781496758248?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/HER%20SOUL%20FOR%20REVENGE%20by%20Harley%20Laroux"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHer-Soul-Revenge%2FHarley-Laroux%2F9781496758248"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781496758248"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1538774224?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Callie Hart",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781538774229.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/72de63be-11e1-5a99-be40-37279f8ce66b",
+          "contributor": "by Callie Hart",
+          "contributor_note": "",
+          "created_date": "2025-11-26T23:37:24.964Z",
+          "dagger": 0,
+          "description": "The second book in the Fae & Alchemy series. To save those close to them, Saeris and Fisher face a new set of dangers.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781538774229",
+          "publisher": "Forever",
+          "rank": 11,
+          "rank_last_week": 12,
+          "sunday_review_link": "",
+          "title": "BRIMSTONE",
+          "updated_date": "2025-11-26T23:37:24.964Z",
+          "weeks_on_list": 11,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781538774229"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1538774224?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781538774229?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/brimstone-callie-hart/1146895617?ean=9781538774229"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBrimstone-Fae-Alchemy-Deluxe-Limited%2FCallie-Hart%2F9781538774229"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781538774229"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1682816524?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Rebecca Yarros",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781682816523.jpg",
+          "book_image_height": 500,
+          "book_image_width": 309,
+          "book_review_link": "",
+          "book_uri": "nyt://book/0c3f7852-9e00-5d0e-b2e0-40cc30059d25",
+          "contributor": "by Rebecca Yarros",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:01.378Z",
+          "dagger": 0,
+          "description": "After a divorce, Georgia Stanton returns to Colorado and tries to protect her great-grandmother’s incomplete manuscript.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781682816523",
+          "publisher": "Amara",
+          "rank": 12,
+          "rank_last_week": 5,
+          "sunday_review_link": "",
+          "title": "THE THINGS WE LEAVE UNFINISHED",
+          "updated_date": "2026-02-06T16:22:01.378Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781682816523"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1682816524?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781682816523?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20THINGS%20WE%20LEAVE%20UNFINISHED%20by%20Rebecca%20Yarros"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FThings-We-Leave-Unfinished%2FRebecca-Yarros%2F9781682816523"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781682816523"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1668002965?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Laura Dave",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781668002964.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/a53baa39-99b3-5ba9-b1ef-07634d95685b",
+          "contributor": "by Laura Dave",
+          "contributor_note": "",
+          "created_date": "2026-01-14T23:37:14.258Z",
+          "dagger": 0,
+          "description": "Hannah’s husband turns up five years after he disappeared, which forces her to go on the run with her daughter.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781668002964",
+          "publisher": "Scribner",
+          "rank": 13,
+          "rank_last_week": 7,
+          "sunday_review_link": "",
+          "title": "THE FIRST TIME I SAW HIM",
+          "updated_date": "2026-01-14T23:37:14.258Z",
+          "weeks_on_list": 4,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781668002964"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1668002965?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781668002964?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20FIRST%20TIME%20I%20SAW%20HIM%20by%20Laura%20Dave"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFirst-Time-Saw-Him%2FLaura-Dave%2F9781668002964"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781668002964"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593834453?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Ashley Elston",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593834459.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e6e85202-30aa-58f6-9d18-fcd58d5a91b7",
+          "contributor": "by Ashley Elston",
+          "contributor_note": "",
+          "created_date": "2026-01-21T23:37:06.043Z",
+          "dagger": 0,
+          "description": "Two women enact a plan to uncover truths a man may have been hiding, but things go awry when he is found murdered.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593834459",
+          "publisher": "Pamela Dorman",
+          "rank": 14,
+          "rank_last_week": 10,
+          "sunday_review_link": "",
+          "title": "ANATOMY OF AN ALIBI",
+          "updated_date": "2026-01-21T23:37:06.043Z",
+          "weeks_on_list": 3,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593834459"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593834453?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593834459?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/ANATOMY%20OF%20AN%20ALIBI%20by%20Ashley%20Elston"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAnatomy-Alibi%2FAshley-Elston%2F9780593834459"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593834459"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593820266?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Matt Dinniman",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593820261.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e84133b7-b087-54fe-aa42-0605dff68e6f",
+          "contributor": "by Matt Dinniman",
+          "contributor_note": "",
+          "created_date": "2026-01-21T23:37:03.379Z",
+          "dagger": 0,
+          "description": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593820261",
+          "publisher": "Ace",
+          "rank": 15,
+          "rank_last_week": 14,
+          "sunday_review_link": "",
+          "title": "CARL'S DOOMSDAY SCENARIO",
+          "updated_date": "2026-01-21T23:37:03.379Z",
+          "weeks_on_list": 3,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593820261"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593820266?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593820261?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/CARL'S%20DOOMSDAY%20SCENARIO%20by%20Matt%20Dinniman"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCarls-Doomsday-Scenario%2FMatt-Dinniman%2F9780593820261"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593820261"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Nonfiction",
+      "list_name_encoded": "hardcover-nonfiction",
+      "books": [
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063422506?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Peter Schweizer",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063422506.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/592d3f06-d50f-5893-8f54-f1cdbdab07d5",
+          "contributor": "by Peter Schweizer",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:40.199Z",
+          "dagger": 0,
+          "description": "The author of “Blood Money” puts forward his argument that mass migration is a political weapon.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063422506",
+          "publisher": "Harper",
+          "rank": 1,
+          "rank_last_week": 1,
+          "sunday_review_link": "",
+          "title": "THE INVISIBLE COUP",
+          "updated_date": "2026-01-28T23:36:40.199Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063422506"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063422506?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20INVISIBLE%20COUP%20by%20Peter%20Schweizer"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FInvisible-Coup%2FPeter-Schweizer%2F9780063422506"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063422506"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Jonathan Haidt",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/7557cf43-7888-5c15-8206-d3541cccd89b",
+          "contributor": "by Jonathan Haidt",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:40.842Z",
+          "dagger": 0,
+          "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593655030",
+          "publisher": "Penguin Press",
+          "rank": 2,
+          "rank_last_week": 5,
+          "sunday_review_link": "",
+          "title": "THE ANXIOUS GENERATION",
+          "updated_date": "2025-10-11T08:22:40.842Z",
+          "weeks_on_list": 93,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593655030"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593655030?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593655030"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BANXIOUS%2BGENERATION%2FJonathan%2BHaidt%2F9780593655030"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593655030"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063463903?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Josh Shapiro with Emily Jane Fox",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063463905.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e2700441-2308-51f6-9856-f0f89f657e29",
+          "contributor": "by Josh Shapiro with Emily Jane Fox",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:07.912Z",
+          "dagger": 0,
+          "description": "The governor of Pennsylvania chronicles events that shaped his life and his political career.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063463905",
+          "publisher": "Harper",
+          "rank": 3,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "WHERE WE KEEP THE LIGHT",
+          "updated_date": "2026-02-06T16:22:07.912Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063463905"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063463903?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780063463905?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/WHERE%20WE%20KEEP%20THE%20LIGHT%20by%20Josh%20Shapiro%20with%20Emily%20Jane%20Fox"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWe-Keep-Light%2FJosh-Shapiro%2F9780063463905"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063463905"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Belle Burden",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2026/01/11/books/review/belle-burden-strangers-memoir-of-marriage.html",
+          "book_uri": "nyt://book/2a718807-3043-5f55-bbaa-2e4e4acee9fb",
+          "contributor": "by Belle Burden",
+          "contributor_note": "",
+          "created_date": "2026-01-21T23:37:03.52Z",
+          "dagger": 0,
+          "description": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593733318",
+          "publisher": "Dial",
+          "rank": 4,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "STRANGERS",
+          "updated_date": "2026-01-21T23:37:03.52Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593733318"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593733312?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593733318?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/Strangers%3A%20A%20Memoir%20of%20Marriage%20Belle%20Burden"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FStrangers%2FBelle-Burden%2F9780593733318"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593733318"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0063428164?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Kennedy",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780063428164.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/62e9ab90-fd39-5bc3-b01d-6aa678595027",
+          "contributor": "by John Kennedy",
+          "contributor_note": "",
+          "created_date": "2025-10-15T22:38:30.535Z",
+          "dagger": 0,
+          "description": "The Republican senator from Louisiana shares stories about politics in Washington, D.C., and in his home state.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780063428164",
+          "publisher": "Broadside",
+          "rank": 5,
+          "rank_last_week": 6,
+          "sunday_review_link": "",
+          "title": "HOW TO TEST NEGATIVE FOR STUPID",
+          "updated_date": "2025-10-15T22:38:30.535Z",
+          "weeks_on_list": 17,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780063428164"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0063428164?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780063428164?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/how-to-test-negative-for-stupid-john-kennedy/1146773939?ean=9780063428164"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DHOW%2520TO%2520TEST%2520NEGATIVE%2520FOR%2520STUPID%2520by%2520John%2520Kennedy"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780063428164"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Andrew Ross Sorkin",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593296967.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2025/10/14/books/review/1929-andrew-ross-sorkin.html",
+          "book_uri": "nyt://book/90977171-d8dc-57d5-b3a0-acf8445743c7",
+          "contributor": "by Andrew Ross Sorkin",
+          "contributor_note": "",
+          "created_date": "2025-10-22T22:37:48.485Z",
+          "dagger": 0,
+          "description": "The New York Times journalist and CNBC host looks at the fight between Washington and Wall Street that fueled a historic crash of the stock market.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593296967",
+          "publisher": "Viking",
+          "rank": 6,
+          "rank_last_week": 3,
+          "sunday_review_link": "",
+          "title": "1929",
+          "updated_date": "2025-10-22T22:37:48.485Z",
+          "weeks_on_list": 16,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593296967"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593296966?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593296967?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/1929-andrew-ross-sorkin/1147761884?ean=9780593296967"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAndrew-Ross-Sorkin%2F9780593296967"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593296967"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1668211769?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Spencer Pratt",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781668211762.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/e782a664-ad5d-5062-bcdf-ed98aa2e6c92",
+          "contributor": "by Spencer Pratt",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:08.052Z",
+          "dagger": 0,
+          "description": "The reality TV star recounts setbacks he faced and how his life changed after the Palisades wildfires in 2025.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781668211762",
+          "publisher": "Gallery",
+          "rank": 7,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "THE GUY YOU LOVED TO HATE",
+          "updated_date": "2026-02-06T16:22:08.052Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781668211762"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1668211769?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781668211762?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/THE%20GUY%20YOU%20LOVED%20TO%20HATE%20by%20Spencer%20Pratt"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGuy-Loved-Hate%2FSpencer-Pratt%2F9781668211762"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781668211762"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593493125?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Virginia Roberts Giuffre",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593493120.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "https://www.nytimes.com/2025/10/16/books/review/virginia-roberts-giuffre-nobodys-girl-memoir.html",
+          "book_uri": "nyt://book/ef231b83-dd7d-5beb-add6-ec274e904a82",
+          "contributor": "by Virginia Roberts Giuffre",
+          "contributor_note": "",
+          "created_date": "2025-10-29T22:37:37.531Z",
+          "dagger": 0,
+          "description": "The late activist and advocate for sex-trafficking survivors describes her time with Jeffrey Epstein and Ghislaine Maxwell.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593493120",
+          "publisher": "Knopf",
+          "rank": 8,
+          "rank_last_week": 4,
+          "sunday_review_link": "",
+          "title": "NOBODY'S GIRL",
+          "updated_date": "2025-10-29T22:37:37.531Z",
+          "weeks_on_list": 15,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593493120"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593493125?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593493120?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/nobodys-girl-virginia-roberts-giuffre/1148108744?ean=9780593493120"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNobodys-Girl%2FVirginia-Roberts-Giuffre%2F9780593493120"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593493120"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593804147?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Omar El Akkad",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593804148.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/cbb6fa9c-1018-544f-baaf-2998c50aebb9",
+          "contributor": "by Omar El Akkad",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:21:41.14Z",
+          "dagger": 0,
+          "description": "In his nonfiction debut, El Akkad looks at how the West responds to mass suffering.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593804148",
+          "publisher": "Knopf",
+          "rank": 9,
+          "rank_last_week": 10,
+          "sunday_review_link": "",
+          "title": "ONE DAY, EVERYONE WILL HAVE ALWAYS BEEN AGAINST THIS",
+          "updated_date": "2025-10-11T08:21:41.14Z",
+          "weeks_on_list": 9,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593804148"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593804147?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593804148?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593804148"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FONE%2BDAY%252C%2BEVERYONE%2BWILL%2BHAVE%2BALWAYS%2BBEEN%2BAGAINST%2BTHIS%2FOmar%2BEl%2BAkkad%2F9780593804148"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593804148"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0358439167?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Michael Harriot",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780358439165.jpg",
+          "book_image_height": 500,
+          "book_image_width": 333,
+          "book_review_link": "",
+          "book_uri": "nyt://book/73df4d4e-da13-52f1-b657-d44d2d8a0186",
+          "contributor": "by Michael Harriot",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:08:38.86Z",
+          "dagger": 0,
+          "description": "A columnist at TheGrio.com articulates moments in American history that center the perspectives and experiences of Black Americans.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780358439165",
+          "publisher": "Dey Street",
+          "rank": 10,
+          "rank_last_week": 12,
+          "sunday_review_link": "",
+          "title": "BLACK AF HISTORY",
+          "updated_date": "2025-10-11T08:08:38.86Z",
+          "weeks_on_list": 26,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780358439165"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0358439167?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780358439165?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780358439165"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBLACK%2BAF%2BHISTORY%2FMichael%2BHarriot%2F9780358439165"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780358439165"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Peter Attia with Bill Gifford",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593236598.jpg",
+          "book_image_height": 500,
+          "book_image_width": 385,
+          "book_review_link": "",
+          "book_uri": "nyt://book/69f6e624-4f30-59d6-8103-816d17ae5ec1",
+          "contributor": "by Peter Attia with Bill Gifford",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.948Z",
+          "dagger": 0,
+          "description": "A look at recent scientific research on aging and longevity.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593236598",
+          "publisher": "Harmony",
+          "rank": 11,
+          "rank_last_week": 9,
+          "sunday_review_link": "",
+          "title": "OUTLIVE",
+          "updated_date": "2025-10-11T08:22:41.948Z",
+          "weeks_on_list": 130,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593236598"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593236598?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780593236598"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FOUTLIVE%2FPeter%2BAttia%2Bwith%2BBill%2BGifford%2F9780593236598"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593236598"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0525426051?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John Green",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780525556572.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/bb5b70b2-964d-5146-8e4b-64724d34a3a9",
+          "contributor": "by John Green",
+          "contributor_note": "",
+          "created_date": "2025-10-11T08:22:41.558Z",
+          "dagger": 0,
+          "description": "The author of “The Anthropocene Reviewed” chronicles the fight against the deadly infectious disease tuberculosis.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780525556572",
+          "publisher": "Crash Course",
+          "rank": 12,
+          "rank_last_week": 11,
+          "sunday_review_link": "",
+          "title": "EVERYTHING IS TUBERCULOSIS",
+          "updated_date": "2025-10-11T08:22:41.558Z",
+          "weeks_on_list": 31,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780525556572"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0525426051?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780525556572?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.barnesandnoble.com/w/?ean=9780525556572"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVERYTHING%2BIS%2BTUBERCULOSIS%2FJohn%2BGreen%2F9780525556572"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780525556572"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/B0FP5L62X5?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Marc Shaiman",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9798895652244.jpg",
+          "book_image_height": 500,
+          "book_image_width": 331,
+          "book_review_link": "",
+          "book_uri": "nyt://book/8addf0a4-a079-5134-89b6-bb1ecbb866c0",
+          "contributor": "by Marc Shaiman",
+          "contributor_note": "",
+          "created_date": "2026-02-06T16:22:01.811Z",
+          "dagger": 0,
+          "description": "The award-winning composer and co-lyricist shares moments from his career over the last five decades.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9798895652244",
+          "publisher": "Regalo",
+          "rank": 13,
+          "rank_last_week": 0,
+          "sunday_review_link": "",
+          "title": "NEVER MIND THE HAPPY",
+          "updated_date": "2026-02-06T16:22:01.811Z",
+          "weeks_on_list": 1,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9798895652244"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/B0FP5L62X5?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9798895652244?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/NEVER%20MIND%20THE%20HAPPY%20by%20Marc%20Shaiman"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fsearch%3Fquery%3DNEVER%2520MIND%2520THE%2520HAPPY%2520by%2520Marc%2520Shaiman"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9798895652244"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/0593490649?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "Chuck Klosterman",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9780593490648.jpg",
+          "book_image_height": 500,
+          "book_image_width": 329,
+          "book_review_link": "",
+          "book_uri": "nyt://book/059a03e0-2dff-5d51-8929-a89883440953",
+          "contributor": "by Chuck Klosterman",
+          "contributor_note": "",
+          "created_date": "2026-01-28T23:36:40.351Z",
+          "dagger": 0,
+          "description": "The author of “The Nineties” considers the ways in which the sport has impacted American life.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9780593490648",
+          "publisher": "Penguin Press",
+          "rank": 14,
+          "rank_last_week": 2,
+          "sunday_review_link": "",
+          "title": "FOOTBALL",
+          "updated_date": "2026-01-28T23:36:40.351Z",
+          "weeks_on_list": 2,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9780593490648"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/0593490649?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780593490648?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/s/FOOTBALL%20by%20Chuck%20Klosterman"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFootball%2FChuck-Klosterman%2F9780593490648"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9780593490648"
+            }
+          ]
+        },
+        {
+          "age_group": "",
+          "amazon_product_url": "https://www.amazon.com/dp/1324094648?tag=thenewyorktim-20",
+          "article_chapter_link": "",
+          "asterisk": 0,
+          "author": "John U. Bacon",
+          "book_image": "https://static01.nyt.com/bestsellers/images/9781324094647.jpg",
+          "book_image_height": 500,
+          "book_image_width": 327,
+          "book_review_link": "",
+          "book_uri": "nyt://book/124d6eaf-bb64-5533-a137-e489c50a65d8",
+          "contributor": "by John U. Bacon",
+          "contributor_note": "",
+          "created_date": "2025-10-15T22:38:34.875Z",
+          "dagger": 0,
+          "description": "An account of the sinking of the Edmund Fitzgerald, an American Great Lakes freighter, 50 years ago.",
+          "first_chapter_link": "",
+          "price": "0.00",
+          "primary_isbn10": "",
+          "primary_isbn13": "9781324094647",
+          "publisher": "Liveright",
+          "rank": 15,
+          "rank_last_week": 13,
+          "sunday_review_link": "",
+          "title": "THE GALES OF NOVEMBER",
+          "updated_date": "2025-10-15T22:38:34.875Z",
+          "weeks_on_list": 14,
+          "isbns": [
+            {
+              "isbn10": "",
+              "isbn13": "9781324094647"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/dp/1324094648?tag=thenewyorktim-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781324094647?at=10lIEQ"
+            },
+            {
+              "name": "Barnes & Noble",
+              "url": "https://www.barnesandnoble.com/w/the-gales-of-november-john-u-bacon/1146855333?ean=9781324094647"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FGales-November%2FJohn-U-Bacon%2F9781324094647"
+            },
+            {
+              "name": "Bookshop.org",
+              "url": "https://bookshop.org/a/3546/9781324094647"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "list_name": "Paperback Trade Fiction",
+      "list_name_encoded": "trade-fiction-paperback",
+      "books": []
+    },
+    {
+      "list_name": "Paperback Nonfiction",
+      "list_name_encoded": "paperback-nonfiction",
+      "books": []
+    },
+    {
+      "list_name": "Advice, How-To & Miscellaneous",
+      "list_name_encoded": "advice-how-to-and-miscellaneous",
+      "books": []
+    },
+    {
+      "list_name": "Children’s Middle Grade Hardcover",
+      "list_name_encoded": "childrens-middle-grade-hardcover",
+      "books": []
+    },
+    {
+      "list_name": "Children’s Picture Books",
+      "list_name_encoded": "picture-books",
+      "books": []
+    },
+    {
+      "list_name": "Children’s & Young Adult Series",
+      "list_name_encoded": "series-books",
+      "books": []
+    },
+    {
+      "list_name": "Young Adult Hardcover",
+      "list_name_encoded": "young-adult-hardcover",
+      "books": []
+    },
+    {
+      "list_name": "Audio Fiction",
+      "list_name_encoded": "audio-fiction",
+      "books": []
+    },
+    {
+      "list_name": "Audio Nonfiction",
+      "list_name_encoded": "audio-nonfiction",
+      "books": []
+    },
+    {
+      "list_name": "Business",
+      "list_name_encoded": "business-books",
+      "books": []
+    },
+    {
+      "list_name": "Graphic Books and Manga",
+      "list_name_encoded": "graphic-books-and-manga",
+      "books": []
+    },
+    {
+      "list_name": "Mass Market",
+      "list_name_encoded": "mass-market-monthly",
+      "books": []
+    },
+    {
+      "list_name": "Middle Grade Paperback",
+      "list_name_encoded": "middle-grade-paperback-monthly",
+      "books": []
+    },
+    {
+      "list_name": "Young Adult Paperback",
+      "list_name_encoded": "young-adult-paperback-monthly",
+      "books": []
+    }
+  ]
+}

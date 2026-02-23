@@ -1,0 +1,21 @@
+# Environment secrets
+.env
+
+# AI-generated report (regenerated on demand)
+data/ai_report.txt
+
+# R / Shiny
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
