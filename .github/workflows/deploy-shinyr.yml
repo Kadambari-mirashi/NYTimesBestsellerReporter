@@ -16,9 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create placeholder .env for publish
-        run: touch .env
-        working-directory: .
+      - name: Create placeholder files for publish
+        run: |
+          touch .env
+          mkdir -p data
+          touch data/ai_report.txt
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
